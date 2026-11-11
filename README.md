@@ -1,4 +1,4 @@
-# FIXNYA
+j# FIXNYA
 Nah ini penyakitnya SlowDNS bos, udah ketebak.
 
 SlowDNS itu maksa pake *port 53*. Sedangkan di Ubuntu, port 53 itu udah dipake duluan sama `systemd-resolved` buat DNS-nya VPS.
